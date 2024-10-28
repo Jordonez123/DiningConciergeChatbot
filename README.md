@@ -1,2 +1,2 @@
 # DiningConciergeChatbot
-![alt text](https://github.com/[Jordonez123]/[DiningConciergeChatbot]/blob/[main]/?raw=true)
+![alt text](https://github.com/[Jordonez123]/[DiningConciergeChatbot]/blob/[main]/DiningConciergeChatbotWorkFlow.jpg?raw=true)
