@@ -1,0 +1,14 @@
+---
+:id: 203105250
+:submitters:
+- :name: Vedant Gannu
+  :email: vg2565@columbia.edu
+- :name: Jordan Ordonez Chaguay
+  :email: jio2108@columbia.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-10-16 20:25:36.851774000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-10-16 13:25:36.851774000 Z
+:status: processed
+:score: 100.0
